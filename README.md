@@ -12,3 +12,5 @@ NOT ALLOWED ```version 1.0 beta```
 
 ### 3. Add your version
 Put your most recent version into the .txt file. Then, go to the file and copy the <b>RAW</b> code link.
+
+### 4. Put your link into checker.py
